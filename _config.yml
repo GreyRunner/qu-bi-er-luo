@@ -2,9 +2,9 @@
 baseurl: "/qu-bi-er-luo"
 
 # 网站的主标题
-title: "曲比尔洛"
+title: "Girls Coding Day"
 # 网站副标题
-subTitle: "——来自四川凉山州的强棒女孩"
+subTitle: "架起女性与编程的桥梁"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
